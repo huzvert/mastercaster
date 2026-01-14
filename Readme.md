@@ -462,8 +462,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Credits
 
 **Development Team:**
-- **Abdullah Farooq** - ML Pipeline, Feature Engineering, Model Training
-- **Huzaifa Ali Satti** - Data Collection, Preprocessing, Visualization
+- **Abdullah Farooq** - ML Pipeline, Feature Engineering, Model Training, Visualization
+- **Huzaifa Ali Satti** - Data Collection, Preprocessing, ML Pipeline/ Model Training, Visualization
 - **M. Shahzil Asif** - Dashboard Development, UI/UX Design
 
 **Course Information:**
@@ -482,13 +482,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact & Support
 
-**GitHub Repository:** [master-forecaster](https://github.com/Abdullah-Farooq-5/master-forecaster)
+**GitHub Repository:** [master-forecaster](https://github.com/huzvert/mastercaster.git)
 
 For issues or questions:
 1. Check this README thoroughly
 2. Review the **About** page in the dashboard
 3. Open an issue on GitHub
-4. Contact: chaudharyabdullah387@gmail.com
+4. Contact: hsatti.bscs23seecs@seecs.edu.pk
 
 ---
 

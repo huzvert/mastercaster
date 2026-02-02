@@ -482,7 +482,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact & Support
 
-**GitHub Repository:** [master-forecaster](https://github.com/Abdullah-Farooq-5/master-forecaster)
+**GitHub Repository:** [master-forecaster](https://github.com/huzvert/mastercaster)
 
 For issues or questions:
 1. Check this README thoroughly
